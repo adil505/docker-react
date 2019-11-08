@@ -17,8 +17,6 @@ deploy:
   bucket_path: "docker"
   on:
     branch: master
-  access_key_id:
-    secure: AKIAWLBHGNUQJOQ77U4S
-  secret_access_key:
-    secure: 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
+  access_key_id: AKIAWLBHGNUQJOQ77U4S
+  secret_access_key: 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
   
